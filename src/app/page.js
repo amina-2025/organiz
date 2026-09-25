@@ -97,7 +97,7 @@ export default function Page() {
 
       <footer className="border-t border-border">
         <div className="mx-auto max-w-6xl px-6 py-10 md:px-10">
-          <Eyebrow>Confluence — Événements privés</Eyebrow>
+          <Eyebrow>Confluiince — Événements privés</Eyebrow>
         </div>
       </footer>
     </div>
