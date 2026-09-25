@@ -22,7 +22,7 @@ export function SiteHeader() {
             href="/"
             className="text-sm uppercase tracking-[0.22em]"
           >
-            confluiince
+            organiz
           </Link>
         </div>
 
